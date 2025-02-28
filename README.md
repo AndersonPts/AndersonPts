@@ -72,7 +72,6 @@ Mais detalhes no meu **[LinkedIn](https://www.linkedin.com/in/anderson-alves-per
 ## 📫 Vamos conectar?
 
 📩 **E-mail:** andersonpts@gmail.com  
-💼 **LinkedIn:** [anderson-alves-pereira](https://www.linkedin.com/in/anderson-alves-pereira/)  
-🔗 **GitHub:** [Seu GitHub Aqui](#)  
+💼 **LinkedIn:** [anderson-alves-pereira](https://www.linkedin.com/in/anderson-alves-pereira/)    
 
 Sinta-se à vontade para ver meus projetos, contribuir ou entrar em contato! 🚀
